@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AoC1</string>
+    <string name="outputPlaceholder">Output</string>
+    <string name="toggle1">PART1</string>
+    <string name="toggle2">PART2</string>
+    <string name="bigNumberButton">Run Result</string>
+    <string name="resultButton">Run Custom</string>
+    <string name="inputPlaceholder">Input</string>
+</resources>
